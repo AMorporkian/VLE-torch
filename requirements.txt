@@ -1,0 +1,10 @@
+opencv-python
+datasets
+matplotlib
+numpy
+torch
+torchvision
+accelerate
+Pillow
+prodigyopt
+wandb
